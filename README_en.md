@@ -7,7 +7,11 @@
 A collection of custom image processing configuration files (`.xml`) for Sony cameras, tailored for **Imaging Edge Desktop (Edit)** to streamline RAW photo editing.
 
 ### Presets in this Repository
+*   [spring.xml](./spring.xml): A fresh and lively spring-themed tone. Enhances the green channel, boosts saturation with soft lighting adjustments to bring out spring vitality.
 *   [summer.xml](./summer.xml): A bright, warm summer vibe tone. It boosts clarity and saturation while adjusting the color temperature and tone curves to deliver a vibrant and warm look.
+*   [autumn.xml](./autumn.xml): A warm, golden, and high-contrast autumn tone. It increases red and yellow saturation and tweaks red/blue curves to yield a nostalgic golden hour look.
+*   [winter.xml](./winter.xml): A cold, clean, and crisp winter tone. Reduces overall saturation, adds a cold blue cast to shadows, and controls highlights for a snowy winter aesthetic.
+
 
 ### How to Use
 
