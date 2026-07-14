@@ -1,0 +1,35 @@
+# Sony Imaging Edge Desktop Presets
+
+[中文](./README.md)
+
+---
+
+A collection of custom image processing configuration files (`.xml`) for Sony cameras, tailored for **Imaging Edge Desktop (Edit)** to streamline RAW photo editing.
+
+### Presets in this Repository
+*   [summer.xml](./summer.xml): A bright, warm summer vibe tone. It boosts clarity and saturation while adjusting the color temperature and tone curves to deliver a vibrant and warm look.
+
+### How to Use
+
+#### 1. Applying a Preset to a Single Image
+To apply one of the presets to an active photo in the **Edit** application:
+1. Open your RAW photo (`.ARW`) in the **Edit** window of Imaging Edge Desktop.
+2. From the menu bar, navigate to **[Edit]** > **[Image Processing Settings]** > **[Load and Apply Settings...]**.
+3. Select the desired preset file (e.g., [summer.xml](./summer.xml)) and click **[Open]**. The settings will be applied immediately.
+
+#### 2. Batch Applying Presets to Multiple Images
+To apply a preset to multiple photos during export:
+1. In the **Viewer** application, select all the images you want to apply the settings to.
+2. Click the **[Output]** (or **[Export]**) icon in the toolbar, or go to **[File]** > **[Output...]**.
+3. In the export settings window, check the box for **[Apply the selected image processing settings to each RAW file]**.
+4. Click **[Browse...]** next to the settings field, select your downloaded `.xml` preset file, and click **[Continue]** to run the batch output.
+
+#### 3. Copying & Pasting Parameters
+If you want to copy settings between images without saving a file:
+*   **Copy:** In the **Edit** window, display the adjusted image and go to **[Edit]** > **[Image Processing Settings]** > **[Copy]** (or press `Cmd + C` / `Ctrl + C`).
+*   **Paste:** Select the target image and go to **[Edit]** > **[Image Processing Settings]** > **[Paste]** (or press `Cmd + V` / `Ctrl + V`).
+
+#### 4. Saving Your Own Presets
+To save your own adjustments as a preset file:
+*   Click the dropdown arrow next to the **[Save]** (disk) icon in the toolbar of the **Edit** window and select **[Save image processing settings]**.
+*   *Alternatively*, go to **[Edit]** > **[Image Processing Settings]** > **[Save...]**, choose a folder, name your preset, and save.
