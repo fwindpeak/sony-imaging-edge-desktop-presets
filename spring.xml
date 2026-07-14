@@ -15,7 +15,7 @@
 			<key>ColorAberrationCorrection</key>
 			<integer>1</integer>
 			<key>ColorModeByNum</key>
-			<integer>26</integer>
+			<integer>20</integer>
 			<key>ColorRendering</key>
 			<integer>-5</integer>
 			<key>ColorTemperature</key>
@@ -88,7 +88,7 @@
 			<integer>0</integer>
 		</dict>
 		<key>CreativeLook</key>
-		<integer>6</integer>
+		<integer>1</integer>
 		<key>CustomParameters</key>
 		<dict>
 			<key>NrOption</key>

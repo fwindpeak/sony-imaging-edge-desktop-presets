@@ -11,15 +11,15 @@
 			<key>BlackLevel</key>
 			<integer>0</integer>
 			<key>Clarity</key>
-			<integer>15</integer>
+			<integer>10</integer>
 			<key>ColorAberrationCorrection</key>
 			<integer>1</integer>
 			<key>ColorModeByNum</key>
-			<integer>19</integer>
+			<integer>18</integer>
 			<key>ColorRendering</key>
-			<integer>-10</integer>
+			<integer>-5</integer>
 			<key>ColorTemperature</key>
-			<integer>4200</integer>
+			<integer>5500</integer>
 			<key>Contrast</key>
 			<integer>5</integer>
 			<key>DROAnkle</key>
@@ -31,9 +31,9 @@
 			<key>DistortionCorrection</key>
 			<integer>1</integer>
 			<key>EffectMode</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>Exposure</key>
-			<integer>60</integer>
+			<integer>0</integer>
 			<key>Fade</key>
 			<integer>0</integer>
 			<key>Fineness</key>
@@ -55,15 +55,15 @@
 			<key>GrayPointY1</key>
 			<integer>0</integer>
 			<key>HighlightLevel</key>
-			<integer>-5</integer>
+			<integer>0</integer>
 			<key>Hue</key>
 			<integer>0</integer>
 			<key>OverShoot</key>
 			<integer>0</integer>
 			<key>Saturation</key>
-			<integer>-15</integer>
+			<integer>-5</integer>
 			<key>ShadowLevel</key>
-			<integer>0</integer>
+			<integer>-5</integer>
 			<key>TemperatureAdjust</key>
 			<integer>0</integer>
 			<key>Threshold</key>
@@ -114,21 +114,21 @@
 					<key>X</key>
 					<real>0.0</real>
 					<key>Y</key>
-					<real>0.029999999999999999</real>
+					<real>0.029999999329447746</real>
 				</dict>
 				<key>ControlPoint1</key>
 				<dict>
 					<key>X</key>
 					<real>0.5</real>
 					<key>Y</key>
-					<real>0.54000000000000004</real>
+					<real>0.4699999988079071</real>
 				</dict>
 				<key>ControlPoint2</key>
 				<dict>
 					<key>X</key>
 					<real>1</real>
 					<key>Y</key>
-					<real>1</real>
+					<real>0.98000001907348633</real>
 				</dict>
 				<key>ControlPointCount</key>
 				<integer>3</integer>
@@ -170,12 +170,19 @@
 				<key>ControlPoint1</key>
 				<dict>
 					<key>X</key>
+					<real>0.5</real>
+					<key>Y</key>
+					<real>0.51999998092651367</real>
+				</dict>
+				<key>ControlPoint2</key>
+				<dict>
+					<key>X</key>
 					<real>1</real>
 					<key>Y</key>
 					<real>1</real>
 				</dict>
 				<key>ControlPointCount</key>
-				<integer>2</integer>
+				<integer>3</integer>
 			</dict>
 		</dict>
 		<key>ToneCurve_Y</key>
@@ -187,16 +194,23 @@
 					<key>X</key>
 					<real>0.0</real>
 					<key>Y</key>
-					<real>0.050000000000000003</real>
+					<real>0.0</real>
 				</dict>
 				<key>ControlPoint1</key>
 				<dict>
 					<key>X</key>
-					<real>0.5</real>
+					<real>0.25</real>
 					<key>Y</key>
-					<real>0.55000000000000004</real>
+					<real>0.20999999344348907</real>
 				</dict>
 				<key>ControlPoint2</key>
+				<dict>
+					<key>X</key>
+					<real>0.75</real>
+					<key>Y</key>
+					<real>0.79000002145767212</real>
+				</dict>
+				<key>ControlPoint3</key>
 				<dict>
 					<key>X</key>
 					<real>1</real>
@@ -204,7 +218,7 @@
 					<real>1</real>
 				</dict>
 				<key>ControlPointCount</key>
-				<integer>3</integer>
+				<integer>4</integer>
 			</dict>
 		</dict>
 	</dict>

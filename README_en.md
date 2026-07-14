@@ -11,6 +11,8 @@ A collection of custom image processing configuration files (`.xml`) for Sony ca
 *   [summer.xml](./summer.xml): A bright, warm summer vibe tone. It boosts clarity and saturation while adjusting the color temperature and tone curves to deliver a vibrant and warm look.
 *   [autumn.xml](./autumn.xml): A warm, golden, and high-contrast autumn tone. It increases red and yellow saturation and tweaks red/blue curves to yield a nostalgic golden hour look.
 *   [winter.xml](./winter.xml): A cold, clean, and crisp winter tone. Reduces overall saturation, adds a cold blue cast to shadows, and controls highlights for a snowy winter aesthetic.
+*   [fl2.xml](./fl2.xml): **FL2 Simulation (Suitable for older cameras like A7C2)**. Built on top of the native FL base look, it boosts contrast, lowers saturation, deepens shadows, and adjusts red/blue tone curves to emulate the heavy, nostalgic filmic aesthetic of FL2 from newer camera models.
+
 
 
 ### How to Use
