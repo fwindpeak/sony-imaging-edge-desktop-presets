@@ -23,6 +23,7 @@ A collection of custom image processing configuration files for Sony RAW photogr
 Designed for **RapidRAW**, including custom tuned styles and featured community presets:
 
 *   **Featured & Custom Presets:**
+    *   **Sony FL 胶片 (Film Look)**: Emulates Sony's native FL (Film Look) Creative Look. Features contrast boost, lowered saturation, deepened shadows, customized red/blue tone curves, and teal shadow / warm midtone color grading for a rich, filmic aesthetic.
     *   **日系小清新 (Japanese Clean Tone)**: Crisp and bright cool tone. Boosts shadows & exposure, lowers highlights, adds blue teal tones in shadows for clean portraits and scenery.
     *   **人文浓郁对比 (Street Rich Contrast)**: High clarity and high contrast street documentation style. Deep shadows with warm highlight/midtone color grading for depth and storytelling.
     *   **人文室内 (Indoor Documentary)**: Optimized for low-light/indoor documentary shots. Boosts shadows and exposure slightly while keeping natural warm tones and sharp details.

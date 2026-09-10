@@ -1,0 +1,571 @@
+{
+  "creator": "fwindpeak",
+  "presets": [
+    {
+      "preset": {
+        "id": "e7176299-4917-4907-b4cb-cd74e00f47d6",
+        "name": "奶油柔光婴儿 (Creamy Glow)",
+        "adjustments": {
+          "blacks": -2,
+          "brightness": 1.65,
+          "centré": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": -6,
+          "colorCalibration": {
+            "blueHue": 0,
+            "blueSaturation": 0,
+            "greenHue": 0,
+            "greenSaturation": 0,
+            "redHue": 0,
+            "redSaturation": 0,
+            "shadowsTint": 0
+          },
+          "colorGrading": {
+            "balance": -5,
+            "blending": 50,
+            "global": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "highlights": {
+              "hue": 38,
+              "luminance": 0,
+              "saturation": 16
+            },
+            "midtones": {
+              "hue": 28,
+              "luminance": 0,
+              "saturation": 10
+            },
+            "shadows": {
+              "hue": 214,
+              "luminance": 0,
+              "saturation": 12
+            }
+          },
+          "colorNoiseReduction": 25,
+          "contrast": 12,
+          "curveMode": "point",
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 10
+              },
+              {
+                "x": 64,
+                "y": 60
+              },
+              {
+                "x": 192,
+                "y": 190
+              },
+              {
+                "x": 255,
+                "y": 248
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 64,
+                "y": 62
+              },
+              {
+                "x": 128,
+                "y": 136
+              },
+              {
+                "x": 192,
+                "y": 202
+              },
+              {
+                "x": 255,
+                "y": 252
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 134
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": -4,
+          "exposure": 0.38,
+          "flareAmount": 6,
+          "glowAmount": 20,
+          "grainAmount": 0,
+          "grainRoughness": 50,
+          "grainSize": 25,
+          "halationAmount": 10,
+          "highlights": -28,
+          "hsl": {
+            "aquas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -15
+            },
+            "blues": {
+              "hue": -5,
+              "luminance": -5,
+              "saturation": -10
+            },
+            "greens": {
+              "hue": 15,
+              "luminance": 0,
+              "saturation": -30
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "oranges": {
+              "hue": -4,
+              "luminance": 6,
+              "saturation": 14
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "reds": {
+              "hue": 3,
+              "luminance": -2,
+              "saturation": 15
+            },
+            "yellows": {
+              "hue": 12,
+              "luminance": 0,
+              "saturation": -25
+            }
+          },
+          "hue": 0,
+          "lumaNoiseReduction": 20,
+          "lutData": null,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "parametricCurve": {
+            "blue": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "green": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "luma": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "red": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            }
+          },
+          "pointCurves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "saturation": 2,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "shadows": 28,
+          "sharpness": 12,
+          "sharpnessThreshold": 15,
+          "showClipping": false,
+          "structure": 0,
+          "temperature": 5,
+          "tint": 4,
+          "toneMapper": "agx",
+          "vibrance": 14,
+          "vignetteAmount": 0,
+          "vignetteFeather": 50,
+          "vignetteMidpoint": 50,
+          "vignetteRoundness": 0,
+          "whites": -12
+        },
+        "includeMasks": false,
+        "includeCropTransform": false,
+        "presetType": "style"
+      }
+    },
+    {
+      "preset": {
+        "id": "b15f928e-8a96-48c5-927e-85c889f07d21",
+        "name": "日系蜜桃婴儿 (Peach Baby)",
+        "adjustments": {
+          "blacks": 0,
+          "brightness": 1.7,
+          "centré": 0,
+          "chromaticAberrationBlueYellow": 0,
+          "chromaticAberrationRedCyan": 0,
+          "clarity": -4,
+          "colorCalibration": {
+            "blueHue": 0,
+            "blueSaturation": 0,
+            "greenHue": 0,
+            "greenSaturation": 0,
+            "redHue": 0,
+            "redSaturation": 0,
+            "shadowsTint": 0
+          },
+          "colorGrading": {
+            "balance": 10,
+            "blending": 50,
+            "global": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "highlights": {
+              "hue": 18,
+              "luminance": 0,
+              "saturation": 12
+            },
+            "midtones": {
+              "hue": 15,
+              "luminance": 0,
+              "saturation": 8
+            },
+            "shadows": {
+              "hue": 220,
+              "luminance": 0,
+              "saturation": 8
+            }
+          },
+          "colorNoiseReduction": 25,
+          "contrast": 8,
+          "curveMode": "point",
+          "curves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 64,
+                "y": 65
+              },
+              {
+                "x": 128,
+                "y": 138
+              },
+              {
+                "x": 192,
+                "y": 204
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 128,
+                "y": 136
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "dehaze": -2,
+          "exposure": 0.42,
+          "flareAmount": 0,
+          "glowAmount": 12,
+          "grainAmount": 0,
+          "grainRoughness": 50,
+          "grainSize": 25,
+          "halationAmount": 5,
+          "highlights": -22,
+          "hsl": {
+            "aquas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": -10
+            },
+            "blues": {
+              "hue": -10,
+              "luminance": 0,
+              "saturation": 5
+            },
+            "greens": {
+              "hue": 15,
+              "luminance": 0,
+              "saturation": -25
+            },
+            "magentas": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "oranges": {
+              "hue": -5,
+              "luminance": 8,
+              "saturation": 16
+            },
+            "purples": {
+              "hue": 0,
+              "luminance": 0,
+              "saturation": 0
+            },
+            "reds": {
+              "hue": 5,
+              "luminance": 0,
+              "saturation": 18
+            },
+            "yellows": {
+              "hue": 10,
+              "luminance": 0,
+              "saturation": -30
+            }
+          },
+          "hue": 0,
+          "lumaNoiseReduction": 18,
+          "lutData": null,
+          "lutIntensity": 100,
+          "lutName": null,
+          "lutPath": null,
+          "lutSize": 0,
+          "parametricCurve": {
+            "blue": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "green": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "luma": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            },
+            "red": {
+              "blackLevel": 0,
+              "darks": 0,
+              "highlights": 0,
+              "lights": 0,
+              "shadows": 0,
+              "split1": 25,
+              "split2": 50,
+              "split3": 75,
+              "whiteLevel": 0
+            }
+          },
+          "pointCurves": {
+            "blue": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "green": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "luma": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ],
+            "red": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 255,
+                "y": 255
+              }
+            ]
+          },
+          "saturation": 3,
+          "sectionVisibility": {
+            "basic": true,
+            "color": true,
+            "curves": true,
+            "details": true,
+            "effects": true
+          },
+          "shadows": 26,
+          "sharpness": 12,
+          "sharpnessThreshold": 15,
+          "showClipping": false,
+          "structure": 0,
+          "temperature": 3,
+          "tint": 6,
+          "toneMapper": "basic",
+          "vibrance": 16,
+          "vignetteAmount": 0,
+          "vignetteFeather": 50,
+          "vignetteMidpoint": 50,
+          "vignetteRoundness": 0,
+          "whites": -10
+        },
+        "includeMasks": false,
+        "includeCropTransform": false,
+        "presetType": "style"
+      }
+    }
+  ]
+}
